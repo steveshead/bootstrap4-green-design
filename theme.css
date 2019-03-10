@@ -1,0 +1,13 @@
+/* style overrides */
+/* topbar navigation bottom green border */
+.topbar.fixed-header .header3 .h3-navbar .navbar-brand {
+    border-bottom: 8px solid #2cdd9b;
+}
+
+.topbar.fixed-header .header3 .h3-navbar {
+    border-bottom: 1px solid #2cdd9b;
+}
+
+.hero-spacer {
+  padding: 150px 0 110px;
+}
